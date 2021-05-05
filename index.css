@@ -1,0 +1,48 @@
+.bannerTitle{
+    font-family: 'Zen Dots', cursive; 
+    color:whitesmoke; font-size: 10em;
+    font-weight: 400;
+    line-height: .5 em; letter-spacing: -.07em;
+    margin-bottom: 10px;
+}
+
+
+
+.background1{background-color:black;
+
+}
+
+body{
+    background-image: url(./Assets/projectpic1.jpg);
+}
+
+.navbar ul {
+    display: flex;
+}
+
+.navbar li{
+    list-style-type: none;
+    text-align: center;
+    flex: 1; margin-top: 10px; margin-right: 40px;
+}
+
+.sectionM{
+    border: 2px;
+    margin-top :50px; 
+    margin-right: 250px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+    padding: 20px 20px 20px 40px;
+    background-image: url(./Assets/Star-Wars-Mothers-Day-Card.png);
+    
+}
+
+.wrapper{
+    margin: center;
+
+}
+
+.navs{
+     fixed; top: 0; right: 0; width: 250px; background-color: lightgray; border: 3px solid navy;
+
+}
